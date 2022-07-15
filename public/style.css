@@ -15,7 +15,7 @@
   /* 残り */
   --black: #222;
   --white: #fff;
-  --red-dark: #c8409b;
+  --red-dark: #d41b46;
   --green-dark: #1d926b;
 
   /* typography */
@@ -94,7 +94,7 @@ textarea {
 }
 
 .form-alert {
-  color: var(--green-dark);
+  color: var(--red-dark);
   letter-spacing: var(--letterSpacing);
   text-transform: capitalize;
 }
